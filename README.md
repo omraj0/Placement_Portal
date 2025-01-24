@@ -183,6 +183,7 @@ Feel free to **open an issue** if you encounter any bugs or have suggestions for
 
 ## License 📄
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
 <br>
 
 ## Contact 📫
